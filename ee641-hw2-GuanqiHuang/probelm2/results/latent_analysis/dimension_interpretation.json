@@ -1,0 +1,110 @@
+{
+  "z_h_dim0": {
+    "top_metrics": [
+      [
+        "inst2_mean",
+        0.0625
+      ],
+      [
+        "syncopation",
+        0.03787881135940552
+      ],
+      [
+        "density_total",
+        0.006944447755813599
+      ]
+    ],
+    "span": 2.5,
+    "steps": 9
+  },
+  "z_h_dim1": {
+    "top_metrics": [
+      [
+        "density_total",
+        0.0
+      ],
+      [
+        "syncopation",
+        0.0
+      ],
+      [
+        "inst0_mean",
+        0.0
+      ]
+    ],
+    "span": 2.5,
+    "steps": 9
+  },
+  "z_h_dim2": {
+    "top_metrics": [
+      [
+        "inst2_mean",
+        0.5
+      ],
+      [
+        "inst7_mean",
+        0.375
+      ],
+      [
+        "inst4_mean",
+        0.3125
+      ]
+    ],
+    "span": 2.5,
+    "steps": 9
+  },
+  "z_l_dim0": {
+    "top_metrics": [
+      [
+        "density_total",
+        0.0
+      ],
+      [
+        "syncopation",
+        0.0
+      ],
+      [
+        "inst0_mean",
+        0.0
+      ]
+    ],
+    "span": 2.5,
+    "steps": 9
+  },
+  "z_l_dim1": {
+    "top_metrics": [
+      [
+        "density_total",
+        0.0
+      ],
+      [
+        "syncopation",
+        0.0
+      ],
+      [
+        "inst0_mean",
+        0.0
+      ]
+    ],
+    "span": 2.5,
+    "steps": 9
+  },
+  "z_l_dim2": {
+    "top_metrics": [
+      [
+        "inst2_mean",
+        0.0625
+      ],
+      [
+        "syncopation",
+        0.03787881135940552
+      ],
+      [
+        "density_total",
+        0.006944447755813599
+      ]
+    ],
+    "span": 2.5,
+    "steps": 9
+  }
+}
